@@ -2,4 +2,4 @@
 学习git常用命令
 git rebase
 git stash  git stash pop
-fix conflicts
+git cherry-pick ${commit-id}
