@@ -3,3 +3,4 @@
 git rebase
 git stash  git stash pop
 git cherry-pick ${commit-id}
+git tag <name> <commit-id>
